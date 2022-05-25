@@ -1,0 +1,8 @@
+{
+  "ValidLogInTests": [
+    {
+        "Username": "<<provide sf login name>>",
+        "Password": "<<provide sf login password>>"
+    }
+  ]
+}
