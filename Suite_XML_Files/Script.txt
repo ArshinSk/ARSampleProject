@@ -1,1 +1,12 @@
-This is the sample project
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Salesforce Test Suite">
+
+    <test name="Salesforce Sample Suite">
+        <classes>
+            <class name="com.autorabit.sample.Salesforce.LogInTests" />
+            <class name="com.autorabit.sample.Salesforce.OpportunitiesTests" />
+            <class name="com.autorabit.sample.Salesforce.ContactTests" />
+        </classes>
+    </test>
+
+</suite>
